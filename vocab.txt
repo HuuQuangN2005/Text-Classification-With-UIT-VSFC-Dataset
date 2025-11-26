@@ -3,8 +3,6 @@
 <PAD>
 <UNK>
 <NUM>
-<NUM>
-<UNK>
 <colonbigsmile>
 <coloncolon>
 <coloncontemn>
